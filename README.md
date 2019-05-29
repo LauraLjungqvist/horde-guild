@@ -36,3 +36,4 @@ Community website for a World of Warcraft horde guild
 - index.php
 - logo-placeholder.png
 - sidebar.php
+- style.css
