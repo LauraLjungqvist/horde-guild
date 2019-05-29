@@ -2,7 +2,7 @@
 Community website for a World of Warcraft horde guild
 
 ## table of content
-- home
+- [home](https://github.com/LauraLjungqvist/horde-guild/blob/master/home.html)
   * recruitment
   * news
   * progress
