@@ -17,7 +17,7 @@ Community website for a World of Warcraft horde guild
   * future
   * the team
   * roster
-- progress
+- [progress](https://github.com/LauraLjungqvist/horde-guild/blob/master/progress.html)
 - recruitment
   * introduction
   * applying
