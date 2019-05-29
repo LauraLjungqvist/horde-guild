@@ -7,7 +7,7 @@ Community website for a World of Warcraft horde guild
   * news
   * progress
   * about us
-- news
+- [news](https://github.com/LauraLjungqvist/horde-guild/blob/master/news.html)
   * featured
   * archive
   * videos
