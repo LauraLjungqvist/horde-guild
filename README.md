@@ -12,7 +12,7 @@ Community website for a World of Warcraft horde guild
   * archive
   * videos
   * screenshots
-- about
+- [about](https://github.com/LauraLjungqvist/horde-guild/blob/master/about.html)
   * history
   * future
   * the team
