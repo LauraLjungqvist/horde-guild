@@ -26,3 +26,13 @@ Community website for a World of Warcraft horde guild
   * status
   * application form
   
+## additional files
+- bootstrap folder
+- icons folder
+- img folder
+- footer.php
+- functions.php
+- header.php
+- index.php
+- logo-placeholder.png
+- sidebar.php
