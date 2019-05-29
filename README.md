@@ -18,7 +18,7 @@ Community website for a World of Warcraft horde guild
   * the team
   * roster
 - [progress](https://github.com/LauraLjungqvist/horde-guild/blob/master/progress.html)
-- recruitment
+- [recruitment](https://github.com/LauraLjungqvist/horde-guild/blob/master/recruitment.html)
   * introduction
   * applying
   * raiding
